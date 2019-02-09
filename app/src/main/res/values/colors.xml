@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FCFAF2</color>
+    <color name="text_title">#080808</color>
+    <color name="text_title2">#0C0C0C</color>
+    <color name="text_title3">#1C1C1C</color>
+    <color name="round1">#0D5661</color>
+    <color name="round2">#0089A7</color>
+    <color name="round3">#1E88A8</color>
+    <color name="round4">#58B2DC</color>
+    <color name="round5">#006284</color>
+    <color name="round6">#2EA9DF</color>
+</resources>
